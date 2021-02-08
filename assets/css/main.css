@@ -2646,7 +2646,7 @@ input[type="submit"].icon,
 input[type="reset"].icon,
 input[type="button"].icon,
 .button.icon {
-	padding-left: 1.35em;
+	/*padding-left: 1.35em;*/
 }
 
 input[type="submit"].icon:before,
