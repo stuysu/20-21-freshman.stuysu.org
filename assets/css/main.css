@@ -3765,3 +3765,8 @@ body.landing #main {
 .dropdownee {
     display: none;
 }
+
+video {
+	width: 100% !important;
+	height: auto !important;
+}
